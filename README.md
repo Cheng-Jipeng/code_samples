@@ -1,4 +1,4 @@
-# code_samples
+# Code Samples
 The sample codes include the scripts developed by me (Jipeng Cheng) in my previous experience to demonstrate my programming ability.
 
 ## 1. Mathematica
